@@ -1,0 +1,30 @@
+_repo: Sketches-in-Verse--respectfully-addressed-to-the-Norfolk-Yeomenry_33732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: The Norwich corn mart -- On Mr. L---, taking leave of his wife and
+  children, who was sentenced to transportation for fourteen years -- The convict's
+  farewell, &c. &c. &c. -- Advice, &c. -- Ode to the memory of the late lamented Sir
+  Samuel Romilly -- An address to the Norfolk yeoman on the importation of foreign
+  grain -- A description of the pine-apple at Trowse -- The Wiverton boy; or, sailor
+  returned [Sir Richard Greenway].
+title: 'Sketches in Verse: respectfully addressed to the Norfolk Yeomenry'
+url: http://www.gutenberg.org/ebooks/33732
